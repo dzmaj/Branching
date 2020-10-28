@@ -1,5 +1,6 @@
-## Git Cheatsheet
+## Git Cheat Sheet
 
+Summary of useful `git` commands.
 ### Basic Commands
 * `git init` - Initialize local git repository
 * `git status` - Show status of working directory
